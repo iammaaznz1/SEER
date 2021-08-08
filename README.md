@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-This project is a simple website created using the MEAR stack as part of a university project
+This project is a simple website created using the MERN stack as part of a university project
 
 ## Available Scripts
 
